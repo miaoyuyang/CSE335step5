@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  Actor.cpp
+  ActorFactory.cpp
+  CanadianExperience.cpp
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\CanadianExperience.cpp(89,23): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\CanadianExperience.cpp(89,23): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+  Drawable.cpp
+  HaroldFactory.cpp
+  HeadTop.cpp
+  ImageDrawable.cpp
+  MainFrm.cpp
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(60,3): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(60,3): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(66,3): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(66,3): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(136,9): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\MainFrm.cpp(136,9): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+  Picture.cpp
+  PictureFactory.cpp
+  PictureObserver.cpp
+  PolyDrawable.cpp
+  SpartyFactory.cpp
+  ViewEdit.cpp
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\DoubleBufferDC.h(46,3): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\DoubleBufferDC.h(46,3): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+  ViewTimeline.cpp
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\DoubleBufferDC.h(46,3): warning C4566: character represented by universal-character-name '\u684C' cannot be represented in the current code page (1252)
+C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\CanadianExperience\DoubleBufferDC.h(46,3): warning C4566: character represented by universal-character-name '\u9762' cannot be represented in the current code page (1252)
+  Generating Code...
+  CanadianExperience.vcxproj -> C:\Users\yangm\OneDrive\桌面\SS 335\Step5\CanadianExperience\Debug\CanadianExperience.exe
